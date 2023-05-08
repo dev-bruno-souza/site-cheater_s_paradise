@@ -1,0 +1,10 @@
+Super salto: Esquerda, Esquerda, Y, Y, Direita, Direita, Esquerda, Direita, X, RB, RT
+Queda livre: LB, LT, RB, RT, Esquerda, Direita, Esquerda, Direita, LB, LT, RB, RT, Esquerda, Direita, Esquerda, Direita
+Atração gravitacional: Esquerda, Esquerda, LB, RB, LB, Direita, Esquerda, LB, Esquerda
+Corrida rápida: Y, Esquerda, Direita, Direita, LT, LB, X
+Nadar rápido: Esquerda, Esquerda, LB, Direita, Direita, RT, Esquerda, LT, Direita
+Corrida de carros no ar: Y, RB, RB, Esquerda, RB, LB, RT, LB
+Queda livre no carro: LB, LT, RB, RT, Esquerda, Direita, Esquerda, Direita, LB, LT, RB, RT, Esquerda, Direita, Esquerda, Direita, RT, LT, LT
+Bêbado: Y, Direita, Direita, Esquerda, Direita, X, B, Esquerda
+Explosões no soco: Direita, Esquerda, A, Y, RB, B, B, B, LT
+Ataques de animais: Direita, Esquerda, RB, RB, RB, Esquerda, Y, Y, A, B, LB, LB

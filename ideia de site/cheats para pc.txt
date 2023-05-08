@@ -1,0 +1,21 @@
+Invencibilidade: PAINKILLER
+Saúde e armadura ao máximo: TURTLE
+Munição infinita: TOOLUP
+Aumentar nível de busca: FUGITIVE
+Reduzir nível de busca: LAWYERUP
+Mudar o clima: MAKEITRAIN
+Modo câmera lenta: SLOWMO
+Teleportar-se para qualquer local no mapa: JRTALENT
+Mudar para qualquer personagem jogável: JRTALENT
+Super salto: HOPTOIT
+Queda livre: SKYDIVE
+Explodir todos os carros próximos: RIPAZHA
+Dirigir um carro mais rápido: CATCHME
+Dirigir um carro mais lento: SNOWDAY
+Alterar a gravidade: FLOATER
+Atrair mulheres: FANNYMAGNET
+Atrair objetos: COMET
+Reduzir a tração do carro: SNOWDAY
+Aumentar a tração do carro: RALLY
+Dirigir um tanque: BUBBLES
+Modo bêbado: LIQUOR
